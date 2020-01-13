@@ -1,0 +1,2 @@
+1  code optimization for space efficiency 
+2  code optimization for since efficiency 

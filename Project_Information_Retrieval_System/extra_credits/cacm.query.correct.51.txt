@@ -1,0 +1,2 @@
+1  parallel processors and paging algorithms 
+2  parallel processors and aging algorithms 

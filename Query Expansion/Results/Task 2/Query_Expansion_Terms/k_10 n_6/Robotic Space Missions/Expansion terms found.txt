@@ -1,0 +1,9 @@
+Term: Robotic Space Missions
+k = 10 n = 6
+Expansion terms:
+space exploration
+solar system
+robotic spacecraft
+deep space
+sample return
+earth orbit

@@ -1,0 +1,17 @@
+i)The lower the lambda value the probability of visiting a popular page becomes greater. Since there is less surprise factor, user has to go through the links in pages. As the lambda value increases, more unpopular pages start to come. For the lambda value 0.15(base line), we notice that the pages Moon and International space station are in the position 8 and 23. When we increase it to 0.25, their positions go up to 5 and 12 respectively. The user therefore increasingly sees the unpopular(lower ranked pages).
+
+ii)The number of iterations are only 4. Therefore in many cases, the page rank has not yet converged.
+
+iii)The rank in-link ranks gives more importance to links which are pointed by so many other in links. However, the page rank algorithm gives importance not just based on the in-link but also the quality. Consider, the scenario where link A has the maximum number of out-links and it points to the page B. Therefore, B is in no way special. Applying that to my results, I noticed that for G2 page ranks gives the rank 2 to "Submarine" page. Where as raw in link gives Colonization_of_Mars as the rank 2. Submarine has only 50 in-links where as Colonization_of_Mars has 309 in-links. 
+
+However, I noticed that the page with the maximum outlinks "Mars_Curse" is pointing to "Colonization_of_Mars" and not to "Submarine". Therefore, "Colonization_of_Mars" loses it's speciality/relevance according to Page rank algorithm. Similar case for G1 where Nasa has the maximum in-links but United_States preceeds it in Page rank because the page with maximum out link "Outer_Space" is pointing to Nasa.
+
+Cons of in link quality:
+It does give much weightage to the quality of the link
+
+Pro:
+In page rank, that a page with very few in-links are being pushed up in the ranking order. For example,take the same case of Submarine which has only 50 links but pushed far above a page with 309 incoming links. This does not happen with raw-in link quality
+
+
+
+

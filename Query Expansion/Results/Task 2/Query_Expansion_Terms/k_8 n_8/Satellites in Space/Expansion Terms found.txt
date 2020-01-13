@@ -1,0 +1,12 @@
+Term: Satellites in Space in space
+k = 8 n = 8
+Expansion terms:
+
+earth observation
+artificial satellites
+space telescopes
+observation satellites
+observation satellite
+space station
+remote sensing
+weather satellite

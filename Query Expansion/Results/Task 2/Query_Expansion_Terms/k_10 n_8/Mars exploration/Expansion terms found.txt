@@ -1,0 +1,12 @@
+
+Term: Mars exploration
+k = 10 n = 8
+Expansion terms:
+sample return
+space exploration
+mars 3
+earth orbit
+return mission
+solar system
+low earth
+mars 2

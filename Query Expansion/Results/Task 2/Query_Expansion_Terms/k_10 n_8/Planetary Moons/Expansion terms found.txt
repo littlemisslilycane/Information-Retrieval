@@ -1,0 +1,12 @@
+
+Term: Planetary Moons
+k = 10 n = 8
+Expansion terms:
+solar system
+natural satellites
+space probe
+galilean moons
+earths moon
+system exploration
+irregular moons
+other planets

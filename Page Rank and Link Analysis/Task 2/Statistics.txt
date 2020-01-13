@@ -1,0 +1,83 @@
+G1:
+Maximum Indegree: 345 	(Nasa)
+Maximum Outdegree:373 (Outer_space)
+
+Websites with no in links : 1 (Ceres)
+Websites with no out links: 8 (Crore,
+Private_property,
+Land_claim,
+Northwestern_India,
+Alpine_exploration,
+Emmeline_Stuart-Wortley,
+Lethargy,
+Acute_health_hazard)
+
+-------------
+G2:
+Maximum Indegree: 464 	(Mars)
+Maximum Outdegree: 236 (Mars_Curse)
+
+Websites with no in links :5 (Space_trade, 
+ExoMars_Rover,
+List_of_DC_Comics_races,
+Mars_Descent_Imager,
+List_of_locations_in_Babylon_5)
+
+Websites with no out links:55
+(Mark_Andrews_(filmmaker),
+Return_to_Mars,
+Fractional_Orbital_Bombardment_System,
+Marinococcus ,
+Al-Aqsa_Martyrs%27_Brigades ,
+Stalin_vs._Martians ,
+Men,_Martians_and_Machines ,
+The_Martian_Chronicles_(video_game) ,
+Maurice_LaMarche ,
+Steve_Martin ,
+Marching_band ,
+Trojan_Marching_Band ,
+Bi-Mart ,
+Don_Markstein%27s_Toonopedia ,
+Martha_Coolidge ,
+San_Marino ,
+Marie_Curie ,
+United_States_customary_units ,
+Mark_82_bomb ,
+Mars_Society_Australia ,
+Lobster_Man_from_Mars ,
+Mary_A._Turzillo ,
+Alastair_Reynolds ,
+Sky_Galleons_of_Mars ,
+Marvel_Family ,
+Mars_Matrix ,
+Terraforming_Mars_(board_game) ,
+Marketing_mix ,
+Marshall_Savage ,
+Vladimir_Mikhailovich_Komarov ,
+Danish_Maritime_Authority ,
+Lyapunov_stability ,
+Francesco_Maria_Grimaldi ,
+Mariana_Trench ,
+Technical_University_of_Denmark ,
+Marriage ,
+Marty_Friedman_(guitarist) ,
+Biz_Markie,
+Demand_(economics),
+Lamarckism ,
+Martin_J._S._Rudwick,
+World_Register_of_Marine_Species ,
+Apis_mellifera_lamarckii ,
+Amelanchier_lamarckii,
+Digitalis_lanata,
+Aconitum_lamarckii,
+Lamarckia,
+Oenothera_lamarckiana,
+Rhizophora_x_lamarckii,
+Smart_Communications,
+Marble_(toy),
+Monroe_H._Martin_Prize,
+Sub_Marine_Explorer,
+Denmark_Strait,
+Submarine_power_cable)
+
+

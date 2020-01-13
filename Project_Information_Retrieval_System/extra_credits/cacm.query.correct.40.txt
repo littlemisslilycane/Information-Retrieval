@@ -1,0 +1,6 @@
+1  list all articles dealing with data types in the following languages that are referenced frequently in papers on the above languages e g cacm any languages with interesting type structures that i might have misses 
+2  lisp all articles dealing with data types in the following languages that are referenced frequently in papers on the above languages e g cacm any languages with interesting type structures that i might have misses 
+3  list all articles dealing with date types in the following languages that are referenced frequently in papers on the above languages e g cacm any languages with interesting type structures that i might have misses 
+4  lisp all articles dealing with date types in the following languages that are referenced frequently in papers on the above languages e g cacm any languages with interesting type structures that i might have misses 
+5  list all articles dealing with data types in the following languages that are referenced frequently in papers on the above languages e g batch any languages with interesting type structures that i might have misses 
+6  lisp all articles dealing with data types in the following languages that are referenced frequently in papers on the above languages e g batch any languages with interesting type structures that i might have misses 

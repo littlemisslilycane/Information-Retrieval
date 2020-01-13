@@ -1,0 +1,9 @@
+Term: Satellites in Space
+k = 10 n = 6
+Expansion terms:
+earth observation
+artificial satellites
+space telescopes
+observation satellites
+observation satellite
+space station

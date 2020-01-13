@@ -1,0 +1,12 @@
+Design:
+
+1)I have implemented BM25 retrieval model in Java. These are the steps I followed:
+	a)Get the indexes for the corpus.
+	b)Compute the query-term frequency.
+	c)For each document in the list, computed the BM25 score with the standard formula (for each query term and summed up the score).
+	d)Sort the documents in the descending order of their scores.
+
+I have used Hash-maps to store the document score data.
+
+2)I have used Lucene 4.7.2 Standard Analyzer to index and get the top 100 documents for each query results with respect to Lucene retrieval model
+ 

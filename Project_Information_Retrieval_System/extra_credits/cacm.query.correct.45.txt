@@ -1,0 +1,2 @@
+1  the use of operations research models to optimizer information system performance this includes fine tuning decisions such as secondary index selection file reorganization and distributed databases 
+2  the use of operations research models to optimizer information system performance thus includes fine tuning decisions such as secondary index selection file reorganization and distributed databases 

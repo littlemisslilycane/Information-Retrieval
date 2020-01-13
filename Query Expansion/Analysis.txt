@@ -1,0 +1,45 @@
+Analysis:
+
+1)Initial Query Term: Satellites in Space_expansion
+
+After Query expansion:
+Expansion term: artificial satellites.
+	a)k = 10 and n = 8:
+	The top 100 documents retrieved for this search results are much more comprehensive and focused to the satellites topic and the ranking for relevant topics are higher in the query expansion term's search results.
+The ranking for some specific top topic web pages have been increased up in the order. For example, the documents Communications_satellite.txt
+and Telecommunications_satellite.txt have gone up to 7 and 8th position respectively from 11th and 12th. 
+
+
+For instance, the following documents which are very specific to satellites are included in the new result set.
+Weather_satellite,Van_Allen_radiation_belt,Spy_satellite, Ballistics, Voyager_1,Voyager_2,Chandrayaan-1. 
+
+There is an overlap of about 62 documents. 
+
+The following documents from the original results were not included in the expansion terms' result set. As we can see some of them are very generic topics:
+
+BFS_PARSED\Telecommunications_satellite.txt BFS_PARSED\Asia's_Space_Race.txt BFS_PARSED\Global_Positioning_System.txt BFS_PARSED\Chinese_space_program.txt BFS_PARSED\Private_spaceflight.txt BFS_PARSED\List_of_topics_in_space.txt BFS_PARSED\Robert_Gilruth.txt BFS_PARSED\Cosmos_186.txt BFS_PARSED\Cosmos_188.txt BFS_PARSED\Space_colonization.txt BFS_PARSED\Proteus_(moon).txt BFS_PARSED\Space_habitat.txt BFS_PARSED\European_Space_Agency.txt BFS_PARSED\United_Nations_Committee_on_the_Peaceful_Uses_of_Outer_Space.txt BFS_PARSED\In-space_propulsion_technologies.txt BFS_PARSED\List_of_human_spaceflights_by_program.txt BFS_PARSED\Explorer_1.txt BFS_PARSED\Interstellar_space.txt BFS_PARSED\Outer_space.txt BFS_PARSED\SpaceX.txt BFS_PARSED\Unmanned_robotic_space_probes.txt BFS_PARSED\Marshall_Space_Flight_Center.txt BFS_PARSED\U.S._space_exploration_history_on_U.S._stamps.txt BFS_PARSED\Discovery_and_exploration_of_the_Solar_System.txt BFS_PARSED\Lagrangian_point.txt BFS_PARSED\Non-rocket_spacelaunch.txt BFS_PARSED\Moons_of_Saturn.txt BFS_PARSED\Terrestrial_planets.txt BFS_PARSED\Light_sail.txt BFS_PARSED\Astrodynamics.txt BFS_PARSED\Air_propulsion.txt BFS_PARSED\Van_Allen_radiation_belt.txt BFS_PARSED\Night_sky.txt BFS_PARSED\Project_Gemini.txt BFS_PARSED\Flight_controller.txt BFS_PARSED\Lander_(spacecraft).txt BFS_PARSED\Remote_sensing.txt BFS_PARSED\Mars_3.txt
+
+
+
+2)Initial Query Term: unmanned spacecraft
+
+After Query expansion:
+Expansion term: robotic spacecraft
+k = 10 and n = 8
+With respect to this query the overall ranking of the relevant documents have gone up the rank. For instance, the below highly relevant document rank higher in the expansion search result.
+BFS_PARSED\Robotic_spacecraft.txt
+BFS_PARSED\Unmanned_robotic_space_probes.txt
+BFS_PARSED\Aurora_programme.txt
+BFS_PARSED\Spacecraft.txt
+BFS_PARSED\Exploration_Mission_2.txt
+BFS_PARSED\Unmanned_spacecraft.txt
+BFS_PARSED\Sample_return_mission.txt
+
+There is an overlap of about 52 documents.
+
+The following documents which are very specific and relevant to the topic are listed in the expansion search:
+BFS_PARSED\Unmanned_robotic_space_probes.txt BFS_PARSED\Spacecraft.txt BFS_PARSED\Unmanned_spacecraft.txt BFS_PARSED\Sample_return_mission.txt BFS_PARSED\Surveyor_program.txt BFS_PARSED\Luna_program.txt BFS_PARSED\Chinese_Lunar_Exploration_Program.txt BFS_PARSED\Vision_for_Space_Exploration.txt BFS_PARSED\Interplanetary_contamination.txt BFS_PARSED\Space_exploration.txt BFS_PARSED\NEAR_Shoemaker.txt BFS_PARSED\Parker_Solar_Probe.txt BFS_PARSED\In-space_propulsion_technologies.txt BFS_PARSED\Daedalus_Project.txt BFS_PARSED\Mars_3.txt BFS_PARSED\Breakthrough_Starshot.txt BFS_PARSED\Google_Lunar_X_Prize.txt BFS_PARSED\Voyager_probes.txt BFS_PARSED\Voyager_program.txt BFS_PARSED\International_Space_Station.txt BFS_PARSED\Mariner_2.txt BFS_PARSED\Emirates_Mars_Mission.txt BFS_PARSED\Roscosmos.txt BFS_PARSED\Timeline_of_Solar_System_exploration.txt BFS_PARSED\Cassinia¶ÈGÈºG«£Huygens.txt BFS_PARSED\Hayabusa_(spacecraft).txt BFS_PARSED\Moon.txt BFS_PARSED\Interstellar_travel.txt BFS_PARSED\Soviet_space_program.txt BFS_PARSED\NASA.txt BFS_PARSED\Project_Apollo.txt BFS_PARSED\Soft_landing_(aeronautics).txt BFS_PARSED\Space_colonization.txt BFS_PARSED\Saturn_V.txt BFS_PARSED\NASA_spin-off.txt BFS_PARSED\List_of_missions_to_the_outer_planets.txt BFS_PARSED\Hubble_Space_Telescope.txt BFS_PARSED\In-situ_resource_utilization.txt BFS_PARSED\Asteroid_mining.txt BFS_PARSED\Maxime_Faget.txt BFS_PARSED\Sergei_Korolev.txt BFS_PARSED\Flyby_(spaceflight).txt BFS_PARSED\Astronautics.txt BFS_PARSED\Space_Shuttle.txt BFS_PARSED\Titan_(moon).txt BFS_PARSED\Gravitational_slingshot.txt BFS_PARSED\Soyuz_program.txt BFS_PARSED\International_Cometary_Explorer.txt
+
+
+	
+

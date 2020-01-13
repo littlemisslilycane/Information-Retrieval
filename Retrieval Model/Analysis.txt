@@ -1,0 +1,24 @@
+Overlaps:
+I noticed that for the top 5 result documents for each query in Lucene and BM25 implementation are quite similar with very slight changes in rank position. For instance, the below queries have the following overlaps between the two system. They fall under the top 5 rank and relevant documents.
+
+Query: Milky way galaxy
+For this query, the documents Milky_Way,Andromeda_Galaxy and Galaxy
+
+Query: Big bang theory
+Big_Bang,Ralph_Alpher,Cosmology
+
+Query: Hubble space telescope
+Edwin_Hubble, Hubble_space_telescope 
+
+Query:mars exploratory missions
+Mars_to_Stay
+
+There is no overlap of documents for International Space Station.
+
+
+Observations:
+While there is overlap, I noticed that Lucene's system of scoring produces more relevant documents since it combines the features of Boolean Model,TF/IDF and vector space model. Besides, apart from the content of the document, it considers the document name/title(a field) and boosts per query term. Documents are thus fielded in Lucene , which makes it better.
+
+For instance, the query results for "International Space station" did not have any common documents between Lucene and BM25 implementation. Lucene offered more relevant documents such as Orbital_Technologies_Commercial_Space_Station,Outline of space science, Space_station where as our BM25 implementation produced very less relevant documents such as Nanjing, History of Antartica, Venera etc., 
+
+
