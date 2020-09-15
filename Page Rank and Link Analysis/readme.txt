@@ -13,5 +13,4 @@ pip install scipy
 4)For task 1, execute TrigamGeneration.py
 for task 2 execute GenerateGraph.py
 for task 3 and 4 execute PageRank.py
-
 5)The output text files will be generated in the same folder.
